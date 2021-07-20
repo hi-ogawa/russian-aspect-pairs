@@ -1,0 +1,5 @@
+/node_modules
+/build
+/data/conllu/*.conllu
+/data/verbs.txt
+/data/verbs-scrape.ndjson
